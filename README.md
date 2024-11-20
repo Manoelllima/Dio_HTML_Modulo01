@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Criação de uma pagina Web somente com HTML, utilizando as tags de titulos:  <pre><h1> a <h6></pre>, paragrafos: <pre><p></pre>, tags de text: <pre><u>, <i>, <strong>, <mark></mark></pre> .</p>
+<p align="left">Criação de uma pagina Web somente com HTML, utilizando as tags de titulos:  < h1 > a < h6 >, paragrafos: < p> , tags de text: < u >, < i >, < strong >, < mark >.</p>
 
 ###
 
